@@ -30,7 +30,7 @@ A full-stack YouTube video downloader built with **Flutter** (frontend), **NestJ
 
 ## 🖥️ Architecture
 
-Flutter UI ─────> NestJS Backend ─────> Python yt-dlp Script
+Flutter UI ─────> NestJS Backend ─────> Python yt-dlp Script<br>
 ▲ │ │
 └───── SSE <──────┴──── Emit Real-time Progress
 
